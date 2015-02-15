@@ -13,4 +13,4 @@
 6) db.hw1_1.findOne()
 
 
-the answer is: "Hello from MongoDB!"
+<strong> the answer is: "Hello from MongoDB!"</strong>
